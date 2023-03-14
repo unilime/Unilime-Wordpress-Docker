@@ -1,0 +1,12 @@
+.idea
+.env
+*.sql
+wp/*
+!wp/wp-content
+wp/wp-content/uploads/*
+wp/wp-content/themes/*
+wp/wp-content/plugins/*
+wp/wp-content/languages/*
+wp/wp-content/upgrade/*
+wp/wp-content/updraft/*
+!wp/wp-content/themes/basic

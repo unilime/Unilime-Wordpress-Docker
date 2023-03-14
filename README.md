@@ -1,4 +1,4 @@
-# Unilime Basic (CMB2) - Docker Usage
+# Unilime WP - Docker Usage
 
 This readme is in the draft state.
 

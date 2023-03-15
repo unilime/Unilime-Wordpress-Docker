@@ -9,4 +9,4 @@ wp/wp-content/plugins/*
 wp/wp-content/languages/*
 wp/wp-content/upgrade/*
 wp/wp-content/updraft/*
-!wp/wp-content/themes/basic
+!wp/wp-content/themes/twentytwentythree
